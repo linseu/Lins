@@ -1,13 +1,15 @@
-### Bem Vindo ao meu perfil ☺️ 
+### Boas vindas ao meu perfil :blue_heart
 
 Meu nome é Maicon Silva
 
-• Estou estudando na Alura
-• Estou me desenvolvendo na linguagem JavaScript
-• Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-entre em contato, vlw. 
+### Você pode entrar em contato comigo :mailbox
 
-![](yurimaicon572@gmail.com)
+yurimaicon572@gmail.com
 
-@MaiconLinss segue no insta
+@marcelopaludetto
+
+![descrição do GIF](link GIF do Tenor)
