@@ -10,6 +10,6 @@ Meu nome é Maicon Silva
 
 yurimaicon572@gmail.com
 
-@marcelopaludetto
+@MaiconLinss
 
 ![descrição do GIF](link GIF do Tenor)
